@@ -1,0 +1,19 @@
+.drawer{
+	background: pink;
+	height: 100vh;
+}
+.jumbotron{
+	background: url(image/background.jpg) no-repeat center center;
+    background-size: cover;
+    height: 400px;
+    padding: 0;
+}
+.display-4{
+	color: white;
+}
+.lead{
+	color: white;
+}
+.jumbotron p{
+	color: white;
+}
