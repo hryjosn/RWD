@@ -1,0 +1,13 @@
+.test{
+  background-color:pink;
+  height:400px;
+  margin:20px;
+}
+
+ .box1{
+  min-width:400px;
+}
+ 
+.box2{
+  max-width:400px;
+}
